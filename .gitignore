@@ -1,0 +1,2 @@
+#The "venv" folder should not be tracked by Git
+Converter_venv/
