@@ -1,0 +1,5 @@
+#The "venv" folder should not be tracked by Git
+Converter_venv
+
+#The ..env file should not be tracked by Git
+.env
